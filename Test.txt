@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pham Anh Pham  - author
 Design by pham anh tuan
 coding by pham anh tuan 
@@ -6,3 +7,5 @@ i will be right ok
 
 ##------------------------------
 ID : 1512639
+=======
+>>>>>>> parent of e3a021d... Modified for file text Test.txt
